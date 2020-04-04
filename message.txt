@@ -1,0 +1,6 @@
+Dear ${PERSON_NAME},
+
+This e-mail is just a test don't freak out please.
+Have a great weekend!
+
+Yours Truly
